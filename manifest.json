@@ -2,7 +2,7 @@
   "domain": "flashforge_ad5m",
   "name": "FlashForge Adventurer 5M",
   "version": "1.0.0",
-  "documentation": "https://github.com/yourrepo/flashforge_ad5m",
+  "documentation": "https://github.com/david1x/flashforge_ad5m",
   "dependencies": [],
   "codeowners": ["@yourgithub"],
   "requirements": ["requests"]
